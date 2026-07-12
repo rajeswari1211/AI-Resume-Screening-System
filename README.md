@@ -205,7 +205,7 @@ This project demonstrates how machine learning and NLP can automate part of that
 
 <a href="https://github.com/rajeswari1211">
 
-<img src="https://img.shields.io/badge/GitHub-@tasnem--tech-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-rajeswari1211-black?style=for-the-badge&logo=github">
 
 </a>
 
