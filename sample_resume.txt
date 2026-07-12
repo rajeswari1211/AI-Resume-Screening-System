@@ -1,8 +1,15 @@
-Tasnem Promy
+Rajeswari Kamepalli
 
 Skills:
 - Python
 - SQL
+- Java
 - Machine Learning
 - Data Analytics
 - GitHub
+
+Education:
+B.Tech Computer Science and Engineering
+
+Experience:
+Fresher
