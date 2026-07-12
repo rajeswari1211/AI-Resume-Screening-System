@@ -7,6 +7,7 @@ st.set_page_config(page_title="AI Resume Screening System")
 st.title("AI Resume Screening System")
 st.caption("Developed by Rajeswari Kamepalli")
 st.write("Compare resumes with job descriptions using AI")
+st.markdown("""
 ### Project Description
 
 This AI Resume Screening System uses Artificial Intelligence (AI) and Natural Language Processing (NLP) to compare a candidate's resume with a job description. It calculates a similarity score using CountVectorizer and Cosine Similarity, helping recruiters quickly identify suitable candidates and simplify the resume screening process.

@@ -77,7 +77,7 @@ Interactive Dashboard
 
 ### Resume Screening Dashboard
 
-*Add application screenshot here*
+<img src="screenshots/app_screenshot.png" alt="AI Resume Screening System" width="900"> 
 
 </div>
 
@@ -122,7 +122,7 @@ Interactive Dashboard
 Clone the repository
 
 ```bash
-git clone https://github.com/tasnem-tech/ai-resume-screening-system.git
+git clone https://github.com/rajeswari1211/AI-Resume-Screening-System.git
 ```
 
 Navigate into the project
@@ -197,13 +197,13 @@ This project demonstrates how machine learning and NLP can automate part of that
 
 # 👨‍💻 Author
 
-## **Tasnem Islam Prome**
+## **Rajeswari Kamepalli**
 
-### Machine Learning • Data Analytics • Python Developer
+### B.Tech CSE Student | Data Analyst | AI Developer
 
 <p align="center">
 
-<a href="https://github.com/tasnem-tech">
+<a href="https://github.com/rajeswari1211">
 
 <img src="https://img.shields.io/badge/GitHub-@tasnem--tech-black?style=for-the-badge&logo=github">
 
